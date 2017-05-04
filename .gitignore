@@ -1,11 +1,23 @@
-/.idea/*
-*/target/
-*.project
-*.classpath
-*.settings
-*.mvn
-*.springBeans
+*.class
+
+target
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# eclipse ignore
+.settings/
 .project
-roncoo-pay.iml
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
 
 
+#log
+logs
