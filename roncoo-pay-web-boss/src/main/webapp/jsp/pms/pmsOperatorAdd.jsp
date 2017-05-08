@@ -19,7 +19,7 @@
 			</p>
 			<p style="width:99%">
 				<label>操作员登录名：</label>
-				<input type="text" name="loginName" class="required email" maxlength="30" size="30" />
+				<input type="text" name="loginName" class="required" maxlength="30" size="30" />
 			</p>
 			<p style="width:99%">
 				<label>密码：</label>

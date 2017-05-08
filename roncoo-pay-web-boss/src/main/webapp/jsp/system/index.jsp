@@ -14,7 +14,8 @@
 			<div class="headerNav">
 				
 				<ul class="nav">
-					<li><a target="dialog" mask="true" width="500" height="380" href="${baseURL }/user/userInfo/view?userNo=${userNo}">${userName} </a></li>
+					<li><a target="dialog" mask="true" width="500" height="380"
+						   href="${baseURL }/user/userInfo/view?userNo=${userNo}">${PmsOperator.realName} </a></li>
 					
 					<li><a href="${baseURL }/logout">退出系统</a></li>
 				</ul>
